@@ -1,3 +1,3 @@
 # CrowdHacks
 
-## Extension for people on each website to chat with each other
+## Extension for people on same website to chat with each other
